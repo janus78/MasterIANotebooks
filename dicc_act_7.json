@@ -1,0 +1,34 @@
+{
+    "Jos\u00e9": {
+        "apellido": "Garc\u00eda",
+        "edad": 32
+    },
+    "Juan": {
+        "apellido": "Hern\u00e1ndez",
+        "edad": 40
+    },
+    "Pedro": {
+        "apellido": "G\u00f3mez",
+        "edad": 22
+    },
+    "Andrea": {
+        "apellido": "L\u00f3pez",
+        "edad": 25
+    },
+    "Mar\u00eda": {
+        "apellido": "G\u00f3mez",
+        "edad": 22
+    },
+    "Monica": {
+        "apellido": "Gonz\u00e1lez",
+        "edad": 25
+    },
+    "Antonio": {
+        "apellido": "Mac\u00edas",
+        "edad": 17
+    },
+    "Paloma": {
+        "apellido": "Z\u00e1rate",
+        "edad": 30
+    }
+}
